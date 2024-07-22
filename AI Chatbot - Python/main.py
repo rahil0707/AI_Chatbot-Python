@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 openai = OpenAI(
-    api_key='sk-None-5mCIK7kc9dEkyS8UqQBRT3BlbkFJX0qmPNyAcOzLW6hjy2iu',
+    api_key='fake_api_key',
 )
 
 def chat_with_gpt(user_input):
